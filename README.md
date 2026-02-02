@@ -41,7 +41,7 @@ The system monitors two critical environmental factors to ensure early warning:
 * **Component Placement**: The heat sensor is placed before the smoke detector to ensure high temperatures are detected before the flame can damage other components on the circuit board.
 * **Calibration**: The sensitivity of the system can be adjusted through variable resistors **RV1** and **RV2**.
 
-## ✍️ Author
+## Author
 * **Nguyen Hieu Trung** - MSSV: 2353244
 
 ---
